@@ -1,1 +1,3 @@
-Ten plik powstał na początku repozytorium
+Ten plik jest własnością Pawła Suwarta powstał na początku repozytorium
+
+Jest kilka zmian
